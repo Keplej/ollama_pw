@@ -18,3 +18,8 @@
 - Open up a cmd and run run the command `ollama pull llama3.1:8b` as this is the model that was used for the weather
     - To change the model go to line 58 in `weather.py`: `model = 'llama3.1:8b'`
 - Create a .env file and put your API_KEY from openweathermap to use the api with the llama3.1 LLM AI
+
+## Sheets
+
+
+### Sheets Instructions

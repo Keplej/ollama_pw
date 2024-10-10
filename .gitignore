@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 mymodel.modelfile
+client_secret.json
+/token files
